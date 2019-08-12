@@ -1,0 +1,6 @@
+framework module AdLimeMediation_Amazon {
+  umbrella header "AdLimeMediation_Amazon.h"
+
+  export *
+  module * { export * }
+}

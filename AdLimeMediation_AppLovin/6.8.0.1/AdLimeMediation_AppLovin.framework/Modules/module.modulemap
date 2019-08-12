@@ -1,0 +1,6 @@
+framework module AdLimeMediation_AppLovin {
+  umbrella header "AdLimeMediation_AppLovin.h"
+
+  export *
+  module * { export * }
+}
