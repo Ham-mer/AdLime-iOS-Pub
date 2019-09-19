@@ -1,0 +1,6 @@
+framework module AdLimeMediation_GDT {
+  umbrella header "AdLimeMediation_GDT.h"
+
+  export *
+  module * { export * }
+}
