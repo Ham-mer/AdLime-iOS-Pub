@@ -8,6 +8,6 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "10.0"
   spec.source       = { :git => "https://github.com/Ham-mer/AdLime-iOS-Pub.git", :tag => "amazon-#{spec.version}" }
   spec.vendored_frameworks  = "AdLimeMediation_Amazon/#{spec.version}/AdLimeMediation_Amazon.framework"
-  spec.dependency 'AmazonAdSDK', '2.2.17'
+  spec.dependency 'AmazonAdSDK', '2.0.16'
   spec.dependency "AdLimeSdk"
 end
