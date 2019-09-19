@@ -10,3 +10,4 @@ Pod::Spec.new do |spec|
   spec.vendored_frameworks  = "AdLimeMediation_Chartboost/#{spec.version}/AdLimeMediation_Chartboost.framework"
   spec.dependency 'ChartboostSDK', '~> 8.0.1'
   spec.dependency "AdLimeSdk"
+end
