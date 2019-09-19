@@ -1,0 +1,6 @@
+framework module AdLimeMediation_Flurry {
+  umbrella header "AdLimeMediation_Flurry.h"
+
+  export *
+  module * { export * }
+}
