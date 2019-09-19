@@ -1,0 +1,6 @@
+framework module AdLimeMediation_Facebook {
+  umbrella header "AdLimeMediation_Facebook.h"
+
+  export *
+  module * { export * }
+}
