@@ -1,0 +1,6 @@
+framework module AdLimeMediation_UnityAds {
+  umbrella header "AdLimeMediation_UnityAds.h"
+
+  export *
+  module * { export * }
+}
