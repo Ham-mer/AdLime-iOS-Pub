@@ -1,6 +1,0 @@
-framework module AdLimeMediation_TikTok {
-  umbrella header "AdLimeMediation_TikTok.h"
-
-  export *
-  module * { export * }
-}
