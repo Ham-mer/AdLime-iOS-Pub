@@ -1,0 +1,6 @@
+framework module AdLimeMediation_AdColony {
+  umbrella header "AdLimeMediation_AdColony.h"
+
+  export *
+  module * { export * }
+}
