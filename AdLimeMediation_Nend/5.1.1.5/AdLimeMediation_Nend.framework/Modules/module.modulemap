@@ -1,0 +1,6 @@
+framework module AdLimeMediation_Nend {
+  umbrella header "AdLimeMediation_Nend.h"
+
+  export *
+  module * { export * }
+}
