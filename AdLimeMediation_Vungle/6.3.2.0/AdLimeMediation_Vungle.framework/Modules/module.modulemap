@@ -1,5 +1,5 @@
-framework module AdLimeMediation_Vungle {
-  umbrella header "AdLimeMediation_Vungle.h"
+framework module WeMobMediation_Vungle {
+  umbrella header "WeMobMediation_Vungle.h"
 
   export *
   module * { export * }
