@@ -1,0 +1,6 @@
+framework module AdLimeMediation_Maio {
+  umbrella header "AdLimeMediation_Maio.h"
+
+  export *
+  module * { export * }
+}
