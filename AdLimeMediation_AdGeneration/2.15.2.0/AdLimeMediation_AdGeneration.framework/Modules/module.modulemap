@@ -1,0 +1,6 @@
+framework module AdLimeMediation_AdGeneration {
+  umbrella header "AdLimeMediation_AdGeneration.h"
+
+  export *
+  module * { export * }
+}
