@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/Ham-mer/AdLime-iOS-Pub"
   spec.license      = { :type => 'MIT' }
   spec.author       = "Access"
-  spec.platform     = :ios, "8.1"
+  spec.platform     = :ios, "9.0"
   spec.source       = { :http => "https://github.com/Ham-mer/AdLime-iOS-Pub/raw/master/DownloadZip/AdLimeMediation_UnityAds/#{spec.version}.zip" }
   spec.vendored_frameworks  = "#{spec.version}/AdLimeMediation_UnityAds.framework"
   spec.dependency 'UnityAds', '~> 3.3.0'
