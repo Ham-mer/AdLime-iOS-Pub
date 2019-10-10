@@ -7,8 +7,7 @@ Pod::Spec.new do |spec|
   spec.author       = "Access"
   spec.platform     = :ios, "9.0"
   spec.source       = { :http => "https://github.com/Ham-mer/AdLime-iOS-Pub/raw/master/DownloadZip/AdLimeSdk/#{spec.version}.zip" }
-  spec.vendored_frameworks  = "#{spec.version}/AdLimeSdk.framework"
-  spec.resource = "#{spec.version}/AdLimeSdk.bundle"
+  spec.dependency "AdLimeSdk", "~> 1.3.4"
   spec.dependency "AdLimeMediation_GoogleAds", "~> 7.50.0.0"
   spec.dependency "AdLimeMediation_Facebook", "~> 5.5.1.0"
   spec.dependency "AdLimeMediation_MoPub", "~> 5.9.0.0"
