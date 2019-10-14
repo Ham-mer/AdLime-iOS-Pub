@@ -1,0 +1,6 @@
+framework module AdLimeMediation_IronSource {
+  umbrella header "AdLimeMediation_IronSource.h"
+
+  export *
+  module * { export * }
+}
