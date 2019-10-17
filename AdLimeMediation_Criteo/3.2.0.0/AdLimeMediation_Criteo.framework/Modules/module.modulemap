@@ -1,0 +1,6 @@
+framework module AdLimeMediation_Criteo {
+  umbrella header "AdLimeMediation_Criteo.h"
+
+  export *
+  module * { export * }
+}
