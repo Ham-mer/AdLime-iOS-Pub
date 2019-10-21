@@ -8,6 +8,6 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "8.0"
   spec.source       = { :http => "https://github.com/Ham-mer/AdLime-iOS-Pub/raw/master/DownloadZip/AdLimeMediation_Fyber/#{spec.version}.zip" }
   spec.vendored_frameworks  = "#{spec.version}/AdLimeMediation_Fyber.framework"
-  spec.dependency 'Fyber_Marketplace_SDK', '~> 5.5.1'
+  spec.dependency 'Fyber_Marketplace_SDK', '~> 7.4.1'
   spec.dependency "AdLimeSdk"
 end
