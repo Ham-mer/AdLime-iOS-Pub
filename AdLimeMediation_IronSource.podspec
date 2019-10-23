@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "AdLimeMediation_IronSource"
-  spec.version      = "6.8.7.0.0"
+  spec.version      = "6.8.7.0.1"
   spec.summary      = "IronSource Adapters for mediating through AdLimeSdk."
   spec.homepage     = "https://github.com/Ham-mer/AdLime-iOS-Pub"
   spec.license      = { :type => 'MIT' }
