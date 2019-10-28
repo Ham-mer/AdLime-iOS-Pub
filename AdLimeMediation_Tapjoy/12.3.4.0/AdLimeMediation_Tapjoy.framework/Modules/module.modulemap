@@ -1,0 +1,6 @@
+framework module AdLimeMediation_Tapjoy {
+  umbrella header "AdLimeMediation_Tapjoy.h"
+
+  export *
+  module * { export * }
+}
