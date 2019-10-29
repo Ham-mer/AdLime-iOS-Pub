@@ -1,5 +1,5 @@
-framework module AdLimeMediation_DUADPlatform {
-  umbrella header "AdLimeMediation_DUADPlatform.h"
+framework module AdLimeMediation_DUAdPlatform {
+  umbrella header "AdLimeMediation_DUAdPlatform.h"
 
   export *
   module * { export * }
