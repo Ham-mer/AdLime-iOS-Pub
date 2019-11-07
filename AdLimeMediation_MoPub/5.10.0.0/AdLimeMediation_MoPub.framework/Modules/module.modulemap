@@ -1,0 +1,6 @@
+framework module AdLimeMediation_MoPub {
+  umbrella header "AdLimeMediation_MoPub.h"
+
+  export *
+  module * { export * }
+}
