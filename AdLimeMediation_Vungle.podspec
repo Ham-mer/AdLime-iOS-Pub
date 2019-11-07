@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "AdLimeMediation_Vungle"
-  spec.version      = "6.4.5.0"
+  spec.version      = "6.4.5.1"
   spec.summary      = "Vungle Adapters for mediating through AdLimeSdk."
   spec.homepage     = "https://github.com/Ham-mer/AdLime-iOS-Pub"
   spec.license      = { :type => 'MIT', :file => "#{spec.version}/LICENSE"}
