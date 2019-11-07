@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "AdLimeSdk"
-  spec.version      = "1.3.8"
+  spec.version      = "1.4.2"
   spec.summary      = "AdLimeSdk is Access Mobile Ad Sdk."
   spec.homepage     = "https://github.com/Ham-mer/AdLime-iOS-Pub"
   spec.license      = { :type => 'MIT' }
