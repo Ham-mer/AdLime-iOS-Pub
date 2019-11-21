@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "AdLimeMediation_AdGeneration"
-  spec.version      = "2.16.4.0"
+  spec.version      = "2.16.4.1"
   spec.summary      = "AdGeneration Adapters for mediating through AdLimeSdk."
   spec.homepage     = "https://github.com/Ham-mer/AdLime-iOS-Pub"
   spec.license      = { :type => 'MIT' }
