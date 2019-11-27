@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "AdLimeMediation_Chartboost"
-  spec.version      = "8.0.3.0"
+  spec.version      = "8.0.3.1"
   spec.summary      = "Chartboost Adapters for mediating through AdLimeSdk."
   spec.homepage     = "https://github.com/Ham-mer/AdLime-iOS-Pub"
   spec.license      = { :type => 'MIT' }
