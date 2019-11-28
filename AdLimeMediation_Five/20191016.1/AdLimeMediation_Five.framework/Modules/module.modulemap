@@ -1,0 +1,6 @@
+framework module AdLimeMediation_Five {
+  umbrella header "AdLimeMediation_Five.h"
+
+  export *
+  module * { export * }
+}
