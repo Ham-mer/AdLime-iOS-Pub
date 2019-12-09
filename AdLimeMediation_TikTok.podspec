@@ -9,5 +9,5 @@ Pod::Spec.new do |spec|
   spec.source       = { :http => "https://github.com/Ham-mer/AdLime-iOS-Pub/raw/master/DownloadZip/AdLimeMediation_TikTok/#{spec.version}.zip" }
   spec.vendored_frameworks  = "#{spec.version}/AdLimeMediation_TikTok.framework"
   spec.dependency 'Bytedance-UnionAD', '~> 2.5.1.5'
-  spec.dependency 'AdLimeSdk', '~> 1.5.4'
+  spec.dependency 'AdLimeSdk'
 end
