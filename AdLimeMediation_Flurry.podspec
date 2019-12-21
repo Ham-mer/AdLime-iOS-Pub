@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "AdLimeMediation_Flurry"
-  spec.version      = "10.0.2.0"
+  spec.version      = "10.0.2.1"
   spec.summary      = "Flurry Adapters for mediating through AdLimeSdk."
   spec.homepage     = "https://github.com/Ham-mer/AdLime-iOS-Pub"
   spec.license      = { :type => 'MIT' }
