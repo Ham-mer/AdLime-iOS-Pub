@@ -1,0 +1,6 @@
+framework module AdLimeMediation_Imobile {
+  umbrella header "AdLimeMediation_Imobile.h"
+
+  export *
+  module * { export * }
+}
