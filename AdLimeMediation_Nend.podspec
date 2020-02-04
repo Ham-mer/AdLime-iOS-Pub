@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.version      = "5.3.0.1"
   spec.summary      = "Nend Adapters for mediating through AdLimeSdk."
   spec.homepage     = "https://github.com/Ham-mer/AdLime-iOS-Pub"
-  spec.license      = { :type => 'MIT' }
+  spec.license      = { :type => 'MIT', :file => "#{spec.version}/LICENSE"}
   spec.author       = "Access"
   spec.platform     = :ios, "8.1"
   spec.source       = { :http => "https://github.com/Ham-mer/AdLime-iOS-Pub/raw/master/DownloadZip/AdLimeMediation_Nend/#{spec.version}.zip" }
