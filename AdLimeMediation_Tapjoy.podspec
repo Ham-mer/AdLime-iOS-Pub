@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "AdLimeMediation_Tapjoy"
-  spec.version      = "12.3.4.0"
+  spec.version      = "12.3.4.1"
   spec.summary      = "Tapjoy Adapters for mediating through AdLimeSdk."
   spec.homepage     = "https://github.com/Ham-mer/AdLime-iOS-Pub"
   spec.license      = { :type => 'MIT' }

@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "AdLimeMediation_UnityAds"
-  spec.version      = "3.3.0.0"
+  spec.version      = "3.3.0.1"
   spec.summary      = "UnityAds Adapters for mediating through AdLimeSdk."
   spec.homepage     = "https://github.com/Ham-mer/AdLime-iOS-Pub"
   spec.license      = { :type => 'MIT' }
