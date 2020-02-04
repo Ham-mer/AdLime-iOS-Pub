@@ -1,6 +1,0 @@
-framework module AdLimeMediation_Fyber {
-  umbrella header "AdLimeMediation_Fyber.h"
-
-  export *
-  module * { export * }
-}
