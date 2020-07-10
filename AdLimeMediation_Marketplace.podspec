@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.author       = "TaurusXAds"
   spec.platform     = :ios, "8.0"
   spec.source       = { :http => "https://github.com/Ham-mer/AdLime-iOS-Pub/raw/master/DownloadZip/AdLimeMediation_Marketplace/#{spec.version}.zip" }
-  spec.vendored_frameworks  = "AdLimeMediation_Marketplace_#{spec.version}/AdLimeMediation_Marketplace.framework"
+  spec.vendored_frameworks  = "#{spec.version}/AdLimeMediation_Marketplace.framework"
   spec.dependency 'AdLimeMarketplace', '1.1.5'
   spec.dependency "AdLimeSdk"
 end
