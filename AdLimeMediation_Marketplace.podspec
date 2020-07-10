@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "AdLimeMediation_Marketplace"
-  spec.version      = "1.1.5.0"
+  spec.version      = "1.1.5.1"
   spec.summary      = "Marketplace Adapters for mediating through AdLimeSdk."
   spec.homepage     = "https://github.com/webeyemob/TaurusXAds_iOS_Pub"
   spec.license      = { :type => 'MIT', :file => "TaurusXAdMediation_NathAds_#{spec.version}/LICENSE" }
