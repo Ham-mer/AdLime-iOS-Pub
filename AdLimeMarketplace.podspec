@@ -7,8 +7,8 @@ Pod::Spec.new do |spec|
   spec.author       = "Access"
   spec.platform     = :ios, "8.0"
   spec.source       = { :http => "https://github.com/Ham-mer/AdLime-iOS-Pub/raw/master/DownloadZip/AdLimeMarketplace/#{spec.version}.zip" }
-  spec.vendored_frameworks  = "#{spec.version}/NathAdsTemplateAd.framework", "#{spec.version}/NathAds.framework"
-  spec.resource     = "#{spec.version}/NathAds.bundle"
+  spec.vendored_frameworks  = "#{spec.version}/AdLimeMarketplaceTemplateAd.framework", "#{spec.version}/AdLimeMarketplace.framework"
+  spec.resource     = "#{spec.version}/AdLimeMarketplace.bundle"
   spec.frameworks   = 'CoreMedia', 'SystemConfiguration', 'CoreLocation', 'CoreTelephony', 'AdSupport', 'WebKit', 'MediaPlayer', 'MobileCoreServices', 'CoreMotion'
   spec.libraries    = 'z'
 end
