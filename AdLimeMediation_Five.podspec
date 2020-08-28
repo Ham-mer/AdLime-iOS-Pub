@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "AdLimeMediation_Five"
-  spec.version      = "20200625.0"
+  spec.version      = "20200824.0"
   spec.summary      = "Five Adapters for mediating through AdLimeSdk."
   spec.homepage     = "https://github.com/Ham-mer/AdLime-iOS-Pub"
   spec.license      = { :type => 'MIT', :file => "#{spec.version}/LICENSE"}
